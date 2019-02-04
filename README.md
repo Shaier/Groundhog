@@ -11,5 +11,5 @@ The idea behind this project was to practice my skills in order to eventually pr
 I collected the average daily temperatures of my city (Portland, Oregon) from the past 6 years (April 1st 2013 to Dec 31 2018) by making several requests to [NOAA](https://www.noaa.gov/).  
 I then trained a recurrent neural network (LSTM type) on the data (after preprocessing it and making it neat) to make predictions.  
 As you can see in the image above, the results were quite impressive.
-
-
+  
+The file [Weather.ipynb](Weather.ipynb) shows my progress, along with some notes on the network.
