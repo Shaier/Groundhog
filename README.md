@@ -1,6 +1,6 @@
 # Predicting-Weather
 
-## In this project I used the past six yeas daily temperatures of my city and predicted the next month temperatures.
+## In this project I used the past six yeas daily temperatures of my city and predicted next month's temperatures.
 ![Prediction](https://github.com/Shaier/Predicting-Weather/blob/master/Prediction.jpg)  
 
   
