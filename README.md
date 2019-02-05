@@ -1,7 +1,7 @@
 # Predicting-Weather
 
 ## In this project I used the past six years' daily temperatures of my city and predicted next month's temperatures.
-![Prediction](https://github.com/Shaier/Predicting-Weather/blob/master/Prediction.jpg)  
+![Prediction](https://github.com/Shaier/Predicting-Weather/blob/master/Prediction.PNG)  
 
   
     
