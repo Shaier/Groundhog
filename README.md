@@ -12,4 +12,4 @@ I collected the average daily temperatures of my city (Portland, Oregon) from th
 I then trained a recurrent neural network (LSTM type) on the data (after preprocessing it and making it neat) to make predictions.  
 As you can see in the image above, the results were quite impressive.
   
-The file [Weather.ipynb](Weather.ipynb) shows my progress, along with some notes on the network.
+The file [Weather.ipynb](Weather.ipynb) shows my progress along with some notes on the network.
